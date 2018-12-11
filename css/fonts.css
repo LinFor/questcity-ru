@@ -1,0 +1,39 @@
+@font-face {
+	font-family: 'Rubik';
+	src: url('../fonts/Rubik-Regular.eot');
+	src: url('../fonts/Rubik-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Rubik-Regular.woff') format('woff'),
+		url('../fonts/Rubik-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'RistrettoPro';
+	src: url('../fonts/RistrettoPro-Regular.eot');
+	src: url('../fonts/RistrettoPro-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/RistrettoPro-Regular.woff') format('woff'),
+		url('../fonts/RistrettoPro-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'RistrettoPro';
+	src: url('../fonts/RistrettoPro-Bold.eot');
+	src: url('../fonts/RistrettoPro-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/RistrettoPro-Bold.woff') format('woff'),
+		url('../fonts/RistrettoPro-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gilroy';
+	src: url('../fonts/Gilroy-Light.eot');
+	src: url('../fonts/Gilroy-Light.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Gilroy-Light.woff') format('woff'),
+		url('../fonts/Gilroy-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
